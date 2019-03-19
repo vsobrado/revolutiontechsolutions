@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator>
-  <link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" />
-  <updated>2019-01-27T22:11:18-07:00</updated>
-  <id>http://0.0.0.0:4000/</id>
+  <link href="https://revolutiontechsolutions.com/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://revolutiontechsolutions.com/" rel="alternate" type="text/html" />
+  <updated>2019-03-19T08:59:10-06:00</updated>
+  <id>https://revolutiontechsolutions.com/</id>
 
   
     <title type="html">Revolution Technology Solutions</title>
@@ -21,11 +21,11 @@
   
     <entry>
       <title type="html">It Technology Consulting</title>
-      <link href="http://0.0.0.0:4000/it%20technology%20consulting/2018/01/01/IT-Technology-Consulting/" rel="alternate" type="text/html" title="It Technology Consulting" />
+      <link href="https://revolutiontechsolutions.com/it%20technology%20consulting/2018/01/01/IT-Technology-Consulting/" rel="alternate" type="text/html" title="It Technology Consulting" />
       <published>2018-01-01T00:00:00-07:00</published>
       <updated>2018-01-01T00:00:00-07:00</updated>
-      <id>http://0.0.0.0:4000/it%20technology%20consulting/2018/01/01/IT-Technology-Consulting</id>
-      <content type="html" xml:base="http://0.0.0.0:4000/it%20technology%20consulting/2018/01/01/IT-Technology-Consulting/"></content>
+      <id>https://revolutiontechsolutions.com/it%20technology%20consulting/2018/01/01/IT-Technology-Consulting</id>
+      <content type="html" xml:base="https://revolutiontechsolutions.com/it%20technology%20consulting/2018/01/01/IT-Technology-Consulting/"></content>
 
       
       
@@ -55,11 +55,11 @@
   
     <entry>
       <title type="html">It Project Management</title>
-      <link href="http://0.0.0.0:4000/it%20project%20management/2014/07/16/IT-Project-Management/" rel="alternate" type="text/html" title="It Project Management" />
+      <link href="https://revolutiontechsolutions.com/it%20project%20management/2014/07/16/IT-Project-Management/" rel="alternate" type="text/html" title="It Project Management" />
       <published>2014-07-16T00:00:00-06:00</published>
       <updated>2014-07-16T00:00:00-06:00</updated>
-      <id>http://0.0.0.0:4000/it%20project%20management/2014/07/16/IT-Project-Management</id>
-      <content type="html" xml:base="http://0.0.0.0:4000/it%20project%20management/2014/07/16/IT-Project-Management/"></content>
+      <id>https://revolutiontechsolutions.com/it%20project%20management/2014/07/16/IT-Project-Management</id>
+      <content type="html" xml:base="https://revolutiontechsolutions.com/it%20project%20management/2014/07/16/IT-Project-Management/"></content>
 
       
       
@@ -89,11 +89,11 @@
   
     <entry>
       <title type="html">It Vendor Management</title>
-      <link href="http://0.0.0.0:4000/it%20vendor%20management/2014/07/15/IT-Vendor-Management/" rel="alternate" type="text/html" title="It Vendor Management" />
+      <link href="https://revolutiontechsolutions.com/it%20vendor%20management/2014/07/15/IT-Vendor-Management/" rel="alternate" type="text/html" title="It Vendor Management" />
       <published>2014-07-15T00:00:00-06:00</published>
       <updated>2014-07-15T00:00:00-06:00</updated>
-      <id>http://0.0.0.0:4000/it%20vendor%20management/2014/07/15/IT-Vendor-Management</id>
-      <content type="html" xml:base="http://0.0.0.0:4000/it%20vendor%20management/2014/07/15/IT-Vendor-Management/"></content>
+      <id>https://revolutiontechsolutions.com/it%20vendor%20management/2014/07/15/IT-Vendor-Management</id>
+      <content type="html" xml:base="https://revolutiontechsolutions.com/it%20vendor%20management/2014/07/15/IT-Vendor-Management/"></content>
 
       
       
