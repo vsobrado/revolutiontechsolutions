@@ -57,7 +57,7 @@ logo {
 hr.star-light,
 hr.star-primary {
     margin: 25px auto 30px;
-    padding: 0;
+    padding: 0px;
     max-width: 250px;
     border: 0;
     border-top: solid 5px;
@@ -191,7 +191,7 @@ header .intro-text .skills {
 }
 
 section {
-    padding: 100px 0;
+    padding: 200px 0;
 }
 
 section h2 {
@@ -483,4 +483,25 @@ footer .footer-below {
 .modal.fade.in {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
+}
+.no-js img.lazyload {
+display: none;
+}
+
+.blur-up {
+filter: blur(10px);
+transition: filter 400ms;
+}
+
+.blur-up.lazyloaded {
+filter: blur(0);
+}
+
+.fade-in {
+opacity: 0;
+transition: opacity 400ms;
+}
+
+.fade-in.lazyloaded {
+opacity: 1;
 }
