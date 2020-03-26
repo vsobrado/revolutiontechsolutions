@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
-  <generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator>
+  <generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator>
   <link href="https://revolutiontechsolutions.com/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://revolutiontechsolutions.com/" rel="alternate" type="text/html" />
-  <updated>2019-11-07T17:38:46-07:00</updated>
+  <updated>2020-03-26T14:29:07-06:00</updated>
   <id>https://revolutiontechsolutions.com/</id>
 
   
@@ -12,7 +12,7 @@
   
 
   
-    <subtitle>Revolution Technology Solutions helps our clients streamline technology and focus on the other challenges of today. We offer an array of technology solutions for the greater denver area.&quot;</subtitle>
+    <subtitle>Revolution Technology Solutions specializes in streamling technology transitions for businesses of all size in the greater Denver area.</subtitle>
   
 
   
@@ -20,12 +20,12 @@
   
   
     <entry>
-      <title type="html">Vendor Management</title>
-      <link href="https://revolutiontechsolutions.com/vendor%20management/2019/10/07/Vendor-Management/" rel="alternate" type="text/html" title="Vendor Management" />
+      <title type="html">Technology Relocation Services</title>
+      <link href="https://revolutiontechsolutions.com/technology%20relocation%20services/2019/10/07/Technology-Relocation-Services/" rel="alternate" type="text/html" title="Technology Relocation Services" />
       <published>2019-10-07T00:00:00-06:00</published>
       <updated>2019-10-07T00:00:00-06:00</updated>
-      <id>https://revolutiontechsolutions.com/vendor%20management/2019/10/07/Vendor-Management</id>
-      <content type="html" xml:base="https://revolutiontechsolutions.com/vendor%20management/2019/10/07/Vendor-Management/"></content>
+      <id>https://revolutiontechsolutions.com/technology%20relocation%20services/2019/10/07/Technology-Relocation-Services</id>
+      <content type="html" xml:base="https://revolutiontechsolutions.com/technology%20relocation%20services/2019/10/07/Technology-Relocation-Services/"></content>
 
       
       
@@ -40,41 +40,7 @@
       </author>
 
       
-        <category term="Vendor Management" />
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Technology Move Expertise</title>
-      <link href="https://revolutiontechsolutions.com/corporate%20technology%20relocation%20services/2019/10/07/Technology-Move-Expertise/" rel="alternate" type="text/html" title="Technology Move Expertise" />
-      <published>2019-10-07T00:00:00-06:00</published>
-      <updated>2019-10-07T00:00:00-06:00</updated>
-      <id>https://revolutiontechsolutions.com/corporate%20technology%20relocation%20services/2019/10/07/Technology-Move-Expertise</id>
-      <content type="html" xml:base="https://revolutiontechsolutions.com/corporate%20technology%20relocation%20services/2019/10/07/Technology-Move-Expertise/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="Corporate Technology Relocation Services" />
+        <category term="Technology Relocation Services" />
       
 
       
@@ -122,6 +88,40 @@
     </entry>
   
     <entry>
+      <title type="html">Monitor Arm Mounting</title>
+      <link href="https://revolutiontechsolutions.com/monitor%20arm%20installation/2019/10/07/Monitor-Arm-Mounting/" rel="alternate" type="text/html" title="Monitor Arm Mounting" />
+      <published>2019-10-07T00:00:00-06:00</published>
+      <updated>2019-10-07T00:00:00-06:00</updated>
+      <id>https://revolutiontechsolutions.com/monitor%20arm%20installation/2019/10/07/Monitor-Arm-Mounting</id>
+      <content type="html" xml:base="https://revolutiontechsolutions.com/monitor%20arm%20installation/2019/10/07/Monitor-Arm-Mounting/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Monitor Arm Installation" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
       <title type="html">It Project Management</title>
       <link href="https://revolutiontechsolutions.com/it%20project%20management/2019/10/07/IT-Project-Management/" rel="alternate" type="text/html" title="It Project Management" />
       <published>2019-10-07T00:00:00-06:00</published>
@@ -143,6 +143,40 @@
 
       
         <category term="IT Project Management" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Help Desk Services</title>
+      <link href="https://revolutiontechsolutions.com/help%20desk%20services/2019/10/07/Help-Desk-Services/" rel="alternate" type="text/html" title="Help Desk Services" />
+      <published>2019-10-07T00:00:00-06:00</published>
+      <updated>2019-10-07T00:00:00-06:00</updated>
+      <id>https://revolutiontechsolutions.com/help%20desk%20services/2019/10/07/Help-Desk-Services</id>
+      <content type="html" xml:base="https://revolutiontechsolutions.com/help%20desk%20services/2019/10/07/Help-Desk-Services/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Help Desk Services" />
       
 
       
