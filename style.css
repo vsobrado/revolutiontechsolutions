@@ -18,6 +18,9 @@ body {
 
 p {
     font-size: 20px;
+    font-family: 'Exo', sans-serif;
+    text-decoration: none;
+    letter-spacing: 1px;
 }
 
 p.small {
@@ -38,7 +41,7 @@ a:active,
 a.active {
     outline: 0;
     font-size: 20px;
-    color: #2B3E51;
+    color: #233140;
     font-family: 'Exo', sans-serif;
     text-decoration: none;
     letter-spacing: 1px;
