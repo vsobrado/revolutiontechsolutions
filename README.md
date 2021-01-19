@@ -1,4 +1,4 @@
-Freelancer Jekyll theme  [![Build Status](https://api.travis-ci.org/jeromelachaud/freelancer-theme.svg?branch=master)](https://travis-ci.org/jeromelachaud/freelancer-theme/) 
+Freelancer Jekyll theme  [![Build Status](https://api.travis-ci.org/jeromelachaud/freelancer-theme.svg?branch=master)](https://travis-ci.org/jeromelachaud/freelancer-theme/)
 =========================
 
 Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
@@ -18,6 +18,16 @@ project-date: January 2020
 client: The Client
 category: Web Development
 description: The description of the project
+
+
+
+
+
+
+PT Emp DP Max Sick Leave = (average hours worked over 2 week period - rollover hours from prior year) or (48 hours - rollover hours from prior year), whichever is greater.
+
+
+
 
 ---
 ```
